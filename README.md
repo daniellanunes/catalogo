@@ -1,3 +1,18 @@
+
+<img width="1440" height="3120" alt="Screenshot_1769731509" src="https://github.com/user-attachments/assets/8ad9f8be-9175-4d5a-9f62-f691bcfb6e80" />
+
+<img width="1440" height="3120" alt="Screenshot_1769731511" src="https://github.com/user-attachments/assets/3f7085ff-e28e-41c6-8a7b-a96da4c7e075" />
+
+<img width="1440" height="3120" alt="Screenshot_1769731514" src="https://github.com/user-attachments/assets/103163d8-5f67-42c5-9a05-85ad05dfdee9" />
+
+<img width="1440" height="3120" alt="Screenshot_1769731517" src="https://github.com/user-attachments/assets/204766d7-1d6b-429d-a8c7-dbaac171c42c" />
+
+<img width="1440" height="3120" alt="Screenshot_1769731519" src="https://github.com/user-attachments/assets/418d3714-349a-40b4-b742-aa6ac5924b0b" />
+
+<img width="1440" height="3120" alt="Screenshot_1769731520" src="https://github.com/user-attachments/assets/a5f49b71-23dd-4e04-8505-ce84f9ba74b0" />
+
+<img width="1440" height="3120" alt="Screenshot_1769731528" src="https://github.com/user-attachments/assets/4c8c8be8-ed4d-49b6-9ad3-d307146c8db6" />
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
